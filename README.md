@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/178304981?v=4" width="260" alt="88n77NODES Logo">
+  <img src="https://raw.githubusercontent.com/88n77/Logo-88n77/main/logo.png" width="260" alt="88n77 Logo">
 </p>
 
-<h1 align="center">🛰️ 88n77 NODES</h1>
+<h1 align="center"> 88n77 NODES</h1>
 <p align="center">
   Independent Web3 Infrastructure & Automation Lab<br>
   <a href="https://x.com/88n77n">Twitter</a> • 
