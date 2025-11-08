@@ -17,3 +17,14 @@
 
 
 <p align="center"><b>🧠 Building. Automating. Decentralizing.</b></p>
+
+
+### 🧩 Projects
+| Network | Repo | Status | Type |
+|----------|------|--------|------|
+| 🧠 Elixir | [Elixir-V3](https://github.com/88n77NODES/Elixir-V3) | ✅ Active | Validator |
+| 🌐 Nesa | [Nesa](https://github.com/88n77NODES/Nesa) | ✅ Running | AI / Web3 |
+| 💧 VANA | [VANA](https://github.com/88n77NODES/VANA) | 🧪 Testnet | Data Infra |
+| ⚙️ Allora | [Allora](https://github.com/88n77NODES/Allora) | ✅ Live | Predictive AI |
+| 🪐 NEXUS | [NEXUS](https://github.com/88n77NODES/NEXUS) | 🧱 Genesis | CLI Node |
+| 🌀 Cysic | [Cysic](https://github.com/88n77NODES/Cysic) | ⚙️ Building | ZK Infra |
